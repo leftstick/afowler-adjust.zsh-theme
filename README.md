@@ -6,4 +6,4 @@ wget https://raw.githubusercontent.com/leftstick/afowler-adjust.zsh-theme/master
 
 Set the theme in your `.zshrc`:
 
-ZSH_THEME="afowler-adjust"
+`ZSH_THEME="afowler-adjust"`
